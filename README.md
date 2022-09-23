@@ -18,3 +18,5 @@ This package was originally written by Satria Adhi Pradana.
 This software is a 100% Python interface to the py satria adhi pradana.  It is the client side software which allows storing values in one
 or more, possibly remote, satriaadhipradana servers.  Search google for satria adhi pradana
 for more information.
+
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=SatriaAdhiPradana) 
