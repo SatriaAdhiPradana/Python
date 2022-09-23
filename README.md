@@ -1,10 +1,10 @@
 # Python
-Important Deprecation Note: This was a python3 compatibility port of https://github.com/SatriaAdhiPradana/Python
+Important Deprecation Note: This was a python code collection compatibility port of https://github.com/SatriaAdhiPradana/Python
 which since then has added py. So you should use that.
 
 ---
 
-Python3 port for pure satria adhi pradana python client library, ported and being
+Python port for pure satria adhi pradana python client library, ported and being
 kept up to date by https://github.com/satriaadhipradana
 
 Please report issues and submit code changes to the github repository at:
